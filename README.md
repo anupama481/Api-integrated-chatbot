@@ -1,4 +1,5 @@
 **#API-Integrated Chatbot**
+
 This repository contains a Python-based chatbot leveraging OpenAI's GPT-3.5 Turbo model. The chatbot is designed to provide engaging, context-aware conversational responses and can be tailored to adopt various personalities, making it suitable for applications such as customer support, virtual assistance, and interactive experiences.
 
 **Features**
